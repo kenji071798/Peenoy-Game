@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Peenoy Game</string>
+    <string name="win_splash">YOU WON!</string>
+    <string name="coins">coins</string>
+    <string name="facebook_app_id">1047045859851659</string>
+    <string name="facebook_client_token">bcf7623e1ab95986fffec25e6c2e045b</string>
+
+</resources>

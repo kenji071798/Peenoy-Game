@@ -1,0 +1,6 @@
+The app currently lacks Geolocation or Language support and is specifically designed for the English language. However, there is a possibility of incorporating these features in the future, depending on the targeted countries when the app is officially released to production.
+
+The app offers a playable slot machine-themed experience, devoid of any opportunities for cash rewards or tangible prizes. Instead, it serves as a simulated game, allowing users to enjoy the thrill of winning in a virtual setting. It stands out with its vibrant symbols depicting marine life, creating a distinctive gaming experience. Continuous improvements will be implemented based on real user feedback.
+
+
+Our app development is streamlined and optimized through the utilization of Android SDK, guaranteeing smooth compatibility and integration with Android devices. Future upgrades will incorporate AppsFlyer Analytics for improved functionality. Additionally, FaceBook SDK will be employed for app promotion on Facebook through ads and content sharing.

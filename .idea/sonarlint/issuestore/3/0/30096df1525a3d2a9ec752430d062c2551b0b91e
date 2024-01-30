@@ -1,0 +1,17 @@
+
+2
+java:S1700"Rename field "policy"(Üóö8„Ñœ¿Ï1
+w
+java:S1450"URemove the "accept" field and declare it as a local variable in the relevant methods.(Åó¥Ìùÿÿÿÿ8§Ñœ¿Ï1
+r
+java:S1450"URemove the "denied" field and declare it as a local variable in the relevant methods.(ş½Ÿ”8§Ñœ¿Ï1
+o
+java:S1450"RRemove the "lin" field and declare it as a local variable in the relevant methods.(²°Õ‘8¨Ñœ¿Ï1
+r
+java:S1450"URemove the "policy" field and declare it as a local variable in the relevant methods.(Üóö8¨Ñœ¿Ï1
+|
+java:S1450"ZRemove the "preferences" field and declare it as a local variable in the relevant methods.(„€Àóûÿÿÿÿ8¨Ñœ¿Ï1
+N
+java:S1602/",Remove useless curly braces around statement(¬Â‰»üÿÿÿÿ8µÑœ¿Ï1
+D
+java:S1068"'Remove this unused "lin" private field.(²°Õ‘8ÀÑœ¿Ï1

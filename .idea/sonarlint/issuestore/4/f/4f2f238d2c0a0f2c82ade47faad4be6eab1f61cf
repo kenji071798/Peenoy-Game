@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ìÔˆê8„Îœ¿Ï1
+s	java:S116 "RRename this field "MyPrefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÀüÊøÿÿÿÿ8†Îœ¿Ï1
+I
+java:S1481X",Remove this unused "dataMap" local variable.(õ½ç¬8æ¤ÜåÏ1
+]	java:S125["<This block of commented-out lines of code should be removed.(©«ãÈıÿÿÿÿ8àÎœ¿Ï1
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8õ¤ÜåÏ1
+I
+java:S1068""'Remove this unused "TAG" private field.(ßˆ·»ÿÿÿÿÿ8äÎœ¿Ï1

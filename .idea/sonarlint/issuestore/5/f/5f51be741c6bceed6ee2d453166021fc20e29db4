@@ -1,0 +1,30 @@
+
+f
+java:S1192e"IDefine a constant instead of duplicating this literal "firstRun" 3 times.(í‘ºè8ÛÔœ¿Ï1
+c
+java:S1192n"FDefine a constant instead of duplicating this literal "music" 3 times.(ºÆ§‡8ÜÔœ¿Ï1
+c
+java:S1192o"FDefine a constant instead of duplicating this literal "sound" 3 times.(àºàĞ8ÜÔœ¿Ï1
+p
+java:S1104?"NMake mp a static final constant or non-public and provide accessors if needed.(Ü«Ñæıÿÿÿÿ8àÔœ¿Ï1
+k
+java:S1104@"OMake win a static final constant or non-public and provide accessors if needed.(áÄ8àÔœ¿Ï1
+u
+java:S1104A"SMake bgsound a static final constant or non-public and provide accessors if needed.(Â¹°Èşÿÿÿÿ8àÔœ¿Ï1
+W	java:S125"<This block of commented-out lines of code should be removed.(ø»â18»Õœ¿Ï1
+{	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù×‡äøÿÿÿÿ8»Õœ¿Ï1
+{	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÕüÍüÿÿÿÿ8»Õœ¿Ï1
+{	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùƒÔÈøÿÿÿÿ8¼Õœ¿Ï1
+{	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ™›ÿÿÿÿÿ8¼Õœ¿Ï1
+r	java:S1166"VRename this field "myCoins_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‚ïê8¼Õœ¿Ï1
+s	java:S1167"RRename this field "bet_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¢šøÿÿÿÿ8¼Õœ¿Ï1
+r	java:S1168"VRename this field "jackpot_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¿ìŠ8¼Õœ¿Ï1
+u	java:S116G"TRename this field "music_off" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïôèäÿÿÿÿÿ8¼Õœ¿Ï1
+o	java:S116H"SRename this field "music_on" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÜ­©8¼Õœ¿Ï1
+t
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¨Œşÿÿÿÿ8×Õœ¿Ï1
+]	java:S125T"<This block of commented-out lines of code should be removed.(¹¬Àøÿÿÿÿ8ÙÕœ¿Ï1
+]	java:S125\"<This block of commented-out lines of code should be removed.(ç¶¸şÿÿÿÿ8ÚÕœ¿Ï1
+U
+java:S1117†"7Rename "bet" which hides the field declared at line 52.(«Á¡³8›Öœ¿Ï1
+?	java:S131µ""Add a default case to this switch.(¶Ëôì8ÄÖœ¿Ï1
